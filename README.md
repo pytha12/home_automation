@@ -12,7 +12,7 @@ Purpose:
    - python 3.7+
    - install and activate virtualenv
    - install pip
-   - pip insall djangorestframework==3.9.0
+   - pip install djangorestframework==3.9.0
    - django-admin startproject your_project_name
      cd your_project_name
    - Edit your_project_name\settings.py
