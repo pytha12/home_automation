@@ -2,7 +2,6 @@
 Home automation application
 
 Purpose: 
-Use this API to :
   - Setup Houses, Rooms 
   - Get information about a given house and rooms, 
   - Turn off and on lights, and change the state of the furnace.
