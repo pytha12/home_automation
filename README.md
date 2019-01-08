@@ -12,9 +12,8 @@ Purpose:
    - python 3.7+
    - install and activate virtualenv
    - install pip
-   - Within active virtualenv install packages from requirements.txt file by typing
-     pip install -r requirements.txt
-     django-admin startproject your_project_name
+   - pip insall djangorestframework==3.9.0
+   - django-admin startproject your_project_name
      cd your_project_name
    - Edit your_project_name\settings.py
    
