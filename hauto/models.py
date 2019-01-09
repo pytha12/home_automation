@@ -70,6 +70,7 @@ class House(models.Model):
     owner = models.ForeignKey(User, related_name='houses', on_delete=models.CASCADE)    
     created = models.DateTimeField(editable=False, default=timezone.now)
     modified = models.DateTimeField(editable=False, default=timezone.now)
+    
 
     def save(self, *args, **kwargs):
         ''' 
